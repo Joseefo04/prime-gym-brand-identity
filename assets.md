@@ -2,18 +2,18 @@
 
 ## Logos y Marca
 
-| Nombre | Formato | URL completa | Uso recomendado |
+| Nombre | Archivo local | Formato | Uso recomendado |
 |---|---|---|---|
-| Logo principal | SVG | `https://essencia.pro/wp-content/uploads/2026/01/PRIME-LOGO.svg` | Web, apps, impresión vectorial |
-| Recurso decorativo footer | SVG | `https://essencia.pro/wp-content/uploads/2026/01/Recurso-4.svg` | Footer, backgrounds, elementos decorativos |
+| Logo principal | `assets/PRIME-LOGO.svg` | SVG | Web, apps, impresión vectorial |
+| Recurso decorativo footer | `assets/Recurso-4.svg` | SVG | Footer, backgrounds, elementos decorativos |
 
 ## Iconos de Servicios
 
-| Nombre | Formato | URL completa |
+| Nombre | Archivo local | Formato |
 |---|---|---|
-| Ícono Musculación | PNG | `https://essencia.pro/wp-content/uploads/2026/01/musculacion-31-1.png` |
-| Ícono Cardio (corazón) | PNG | `https://essencia.pro/wp-content/uploads/2026/01/corazon-32.png` |
-| Ícono Peso Libre | PNG | `https://essencia.pro/wp-content/uploads/2026/01/peso-libre-33.png` |
+| Ícono Musculación | `assets/icono-musculacion.png` | PNG |
+| Ícono Cardio | `assets/icono-cardio.png` | PNG |
+| Ícono Peso Libre | `assets/icono-peso-libre.png` | PNG |
 
 ## Imágenes Promocionales
 
