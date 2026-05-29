@@ -1,8 +1,5 @@
 # Prime Gym Ibarra — Brand Identity Kit
 
-> Extracted and structured from https://essencia.pro/prime-gym-gimnasio-en-ibarra/
-> Prepared for Claude Design · May 2026
-
 ---
 
 ## Contenido del Kit
